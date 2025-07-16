@@ -1,1 +1,1 @@
-introduction to Gomycode
+Introduction to Glaucus
